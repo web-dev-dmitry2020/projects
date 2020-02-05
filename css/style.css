@@ -1,10 +1,13 @@
 
 header ul {
 	display: flex;
+	padding: 20px;
+	box-shadow: 5px 5px 20px rgba(0,0,0, .5);
 }
 header li {
 	padding: 20px;
 	border: 2px solid grey;
+	margin: 20px;
 }
 main div {
 	width: 300px;
