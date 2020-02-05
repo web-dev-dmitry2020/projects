@@ -1,6 +1,15 @@
+
+header ul {
+	display: flex;
+}
+header li {
+	padding: 20px;
+	border: 2px solid grey;
+}
 main div {
 	width: 300px;
 	height: 200px;
 	box-shadow: 5px 5px 20px rgba(0,0,0, .5);
 	margin: 10px;
 }
+
